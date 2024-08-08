@@ -72,7 +72,7 @@ sections:
         text: >
           Create and maintain dynamic, user-friendly websites tailored to the
           needs of local businesses, nonprofits, and community organizations.
-          This includes features like business websites, online stores, event
+          This includes development of business websites, online stores, event
           management, donation platforms, and online directories.
         actions: []
         elementId: null
