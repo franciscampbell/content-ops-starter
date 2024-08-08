@@ -9,9 +9,16 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Hometown Labs specializes in developing innovative solutions to elevate
+      local organizations. We offer comprehensive website development services
+      to create engaging and user-friendly online presences. Our automation
+      tools streamline repetitive tasks and improve operational efficiency,
+      freeing up valuable time for mission-driven work. Additionally, our custom
+      applications are designed to address specific needs, whether it's managing
+      community projects, tracking donations, or coordinating events. By
+      integrating these technologies, we empower local businesses, nonprofits,
+      and other community-focused groups to maximize their impact and achieve
+      their goals with greater ease.
     actions:
       - label: Get started
         altText: ''
