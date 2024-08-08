@@ -1,4 +1,4 @@
-import * as React from 'react';
+fyimport * as React from 'react';
 import classNames from 'classnames';
 
 import { getComponent } from '../../components-registry';
@@ -44,6 +44,7 @@ export default function FormBlock(props) {
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
+            netlify
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
