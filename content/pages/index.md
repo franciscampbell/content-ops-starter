@@ -62,9 +62,9 @@ sections:
       type: TitleBlock
     subtitle: >-
       We offer comprehensive software development services to create engaging
-      and user-friendly online presences, automation tools streamline repetitive
-      tasks and improve operational efficiency, and custom applications are
-      designed to address specific needs.
+      and user-friendly online presences, automation tools that streamline
+      repetitive tasks and improve operational efficiency, and custom
+      applications that manage complex projects.
     items:
       - type: FeaturedItem
         title: Website Development
