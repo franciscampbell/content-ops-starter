@@ -16,7 +16,7 @@ sections:
     actions:
       - label: What We Do
         altText: ''
-        url: /
+        url: /#services
         showIcon: false
         icon: arrowRight
         iconPosition: right
