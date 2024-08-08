@@ -126,10 +126,11 @@ sections:
         type: FeaturedItem
       - title: Custom Applications
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Develop bespoke software applications or manage off-the-shelf tools
+          designed to address specific challenges and opportunities within local
+          communities. These can include project management tools, volunteer
+          coordination systems, and community engagement platforms.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
