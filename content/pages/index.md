@@ -100,10 +100,11 @@ sections:
               borderRadius: x-large
       - title: Automation Solutions
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Implement automation tools to streamline administrative tasks, manage
+          communications, and optimize workflows. This helps organizations save
+          time and reduce manual effort, enabling them to focus more on their
+          core activities.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
