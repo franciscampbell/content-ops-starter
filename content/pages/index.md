@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Empowering Communities Through Innovative Software Solutions
+      text: Empowering Communities
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
