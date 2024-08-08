@@ -10,7 +10,7 @@ sections:
     subtitle: Through Innovative Software Solutions
     text: >
       Hometown Labs specializes in developing innovative solutions to elevate
-      local organizations. We offer comprehensive website development services
+      local organizations. We offer comprehensive software development services
       to create engaging and user-friendly online presences. Our automation
       tools streamline repetitive tasks and improve operational efficiency,
       freeing up valuable time for mission-driven work. Additionally, our custom
