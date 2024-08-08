@@ -149,7 +149,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /#contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
