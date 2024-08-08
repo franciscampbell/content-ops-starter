@@ -13,7 +13,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@hometownlabs.ca",
             "icon": "mail",
             "type": "Social"
         }
