@@ -60,7 +60,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We offer comprehensive software development services to create engaging
+      and user-friendly online presences. Our automation tools streamline
+      repetitive tasks and improve operational efficiency, freeing up valuable
+      time for mission-driven work. Additionally, our custom applications are
+      designed to address specific needs, whether it's managing community
+      projects, tracking donations, or coordinating events.
     items:
       - type: FeaturedItem
         title: Website Development
