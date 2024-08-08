@@ -184,9 +184,11 @@ sections:
       type: TitleBlock
     subtitle: We’re Here to Help
     text: >
-      Tell us about your project or business and we'll get in touch to talk next
-      steps. We know community projects and local business are not often built
-      with loads of funding - so we offer flexible pricing to match your needs.
+      Whether you're interested in learning more about our services, have
+      specific project needs, or just want to chat about how we can support your
+      community, we're here to assist. Fill out the form below with your details
+      and any inquiries you have, and a member of our team will connect with you
+      shortly. We look forward to hearing from you!
     media:
       fields:
         - name: name
