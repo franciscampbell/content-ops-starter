@@ -238,6 +238,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: contact
 seo:
   metaTitle: Hometown Labs
   metaDescription: Developing innovative solutions to elevate local organizations.
