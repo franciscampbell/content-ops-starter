@@ -127,8 +127,9 @@ sections:
         text: >
           Develop bespoke software applications or manage off-the-shelf tools
           designed to address specific challenges and opportunities within local
-          communities. These can include project management tools, volunteer
-          coordination systems, and community engagement platforms.
+          communities. These can include project management tools, API access
+          and data analysis, volunteer coordination systems, and community
+          engagement platforms.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
