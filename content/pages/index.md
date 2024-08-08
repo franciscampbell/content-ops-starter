@@ -7,7 +7,7 @@ sections:
       text: Empowering Communities
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Through Innovative Software Solutions
     text: >
       Hometown Labs specializes in developing innovative solutions to elevate
       local organizations. We offer comprehensive website development services
