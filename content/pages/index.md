@@ -101,10 +101,10 @@ sections:
       - title: Automation Solutions
         subtitle: The Job Stuff
         text: >
-          Implement automation tools to streamline administrative tasks, manage
-          communications, and optimize workflows. This helps organizations save
-          time and reduce manual effort, enabling them to focus more on their
-          core activities.
+          Implement automation tools to streamline administrative or repetitive
+          tasks, manage communications, and optimize workflows. This helps
+          organizations save time and reduce manual effort, enabling them to
+          focus more on their core activities.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
