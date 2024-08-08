@@ -125,7 +125,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Custom Applications
-        subtitle: Optimize complex tasks
+        subtitle: Manage complex projects
         text: >
           Develop bespoke software applications or manage off-the-shelf tools
           designed to address specific challenges and opportunities within local
