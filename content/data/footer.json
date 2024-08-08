@@ -7,17 +7,7 @@
     "text": "Hometown Labs develops and manages websites and applications for your business - so you can focus on growing your community of patrons and supporters. Get in touch today to see how we can help you transform your technology and online presence.\n",
     "secondaryLinks": {
         "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
