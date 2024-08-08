@@ -248,7 +248,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Hometown Labs
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Developing innovative solutions to elevate local organizations.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
