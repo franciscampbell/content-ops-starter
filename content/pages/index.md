@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Automation Solutions
-        subtitle: Lose the boring stuff
+        subtitle: Eliminate the boring stuff
         text: >
           Implement automation tools to streamline administrative or repetitive
           tasks, manage communications, and optimize workflows. This helps
