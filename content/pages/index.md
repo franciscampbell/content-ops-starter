@@ -14,7 +14,7 @@ sections:
       businesses, nonprofits, and other community-focused groups to maximize
       their impact and achieve their goals with greater ease.
     actions:
-      - label: Get started
+      - label: What We Do
         altText: ''
         url: /
         showIcon: false
