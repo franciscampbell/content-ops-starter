@@ -71,10 +71,11 @@ sections:
       - type: FeaturedItem
         title: Website Development
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Create and maintain dynamic, user-friendly websites tailored to the
+          needs of local businesses, nonprofits, and community organizations.
+          This includes features like business websites, online stores, event
+          management, donation platforms, and online directories.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
