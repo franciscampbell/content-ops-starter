@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Website Development
-        subtitle: Get Online
+        subtitle: Get Online and reach your supporters
         text: >
           Create and maintain dynamic, user-friendly websites tailored to the
           needs of local businesses, nonprofits, and community organizations.
