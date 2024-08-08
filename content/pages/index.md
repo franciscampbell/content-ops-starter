@@ -62,11 +62,9 @@ sections:
       type: TitleBlock
     subtitle: >-
       We offer comprehensive software development services to create engaging
-      and user-friendly online presences. Our automation tools streamline
-      repetitive tasks and improve operational efficiency, freeing up valuable
-      time for mission-driven work. Additionally, our custom applications are
-      designed to address specific needs, whether it's managing community
-      projects, tracking donations, or coordinating events.
+      and user-friendly online presences, automation tools streamline repetitive
+      tasks and improve operational efficiency, and custom applications are
+      designed to address specific needs.
     items:
       - type: FeaturedItem
         title: Website Development
